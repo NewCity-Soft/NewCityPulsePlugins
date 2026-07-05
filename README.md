@@ -11,7 +11,7 @@ This repository is the official cloud plugin source for *New City Pulse*. You ca
 ## 如何提交插件 (How to Contribute)
 
 1. **Fork** 本仓库。
-2. 在插件目录下创建一个新文件夹，包含你的插件代码和 `manifest.json`。
+2. 在plugin目录下创建一个新文件夹，包含你的插件代码和 `manifest.json`。
 3. 在根目录的 `registry.json` 中添加你的插件信息。
 4. 提交 **Pull Request**。
 
