@@ -1,0 +1,8 @@
+{
+  "id": "com.citypulse.maintenance",
+  "name": "Maintenance System",
+  "version": "1.0.0",
+  "description": "Adds maintenance requirements and wear-and-tear to buildings over time.",
+  "author": "System",
+  "entry": "index.tsx"
+}

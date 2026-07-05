@@ -1,0 +1,8 @@
+{
+  "id": "com.citypulse.lang.ja",
+  "name": "日语包 (Japanese Language Pack)",
+  "version": "1.0.0",
+  "description": "Adds Japanese language support to the game. / 游戏日语语言包。",
+  "author": "System",
+  "entry": "index.tsx"
+}

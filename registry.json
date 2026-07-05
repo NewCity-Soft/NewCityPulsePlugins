@@ -1,0 +1,68 @@
+{
+  "name": "New City Pulse Official Store",
+  "plugins": [
+    {
+      "id": "com.citypulse.smartbuild",
+      "name": { "zh": "智能建造 (Smart Build)", "en": "Smart Build" },
+      "version": "1.0.0",
+      "description": { "zh": "在拖拽时自动选择正确的管道类型。", "en": "Automatically selects the right pipe type when dragging." },
+      "author": "System",
+      "manifestUrl": "https://raw.githubusercontent.com/NewCity-Soft/NewCityPulsePlugins/main/plugins/smart-build/manifest.json",
+      "entryUrl": "https://raw.githubusercontent.com/NewCity-Soft/NewCityPulsePlugins/main/plugins/smart-build/index.tsx"
+    },
+    {
+      "id": "com.citypulse.maintenance",
+      "name": { "zh": "维护系统 (Maintenance)", "en": "Maintenance System" },
+      "version": "1.0.0",
+      "description": { "zh": "随着时间的推移增加建筑物的维护需求和磨损。", "en": "Adds maintenance requirements and wear-and-tear to buildings over time." },
+      "author": "System",
+      "manifestUrl": "https://raw.githubusercontent.com/NewCity-Soft/NewCityPulsePlugins/main/plugins/maintenance/manifest.json",
+      "entryUrl": "https://raw.githubusercontent.com/NewCity-Soft/NewCityPulsePlugins/main/plugins/maintenance/index.tsx"
+    },
+    {
+      "id": "com.citypulse.randomevents",
+      "name": { "zh": "随机事件 (Random Events)", "en": "Random Events" },
+      "version": "1.0.0",
+      "description": { "zh": "在城市中触发随机的经济和社会事件。", "en": "Triggers random economic and social events in the city." },
+      "author": "System",
+      "manifestUrl": "https://raw.githubusercontent.com/NewCity-Soft/NewCityPulsePlugins/main/plugins/random-events/manifest.json",
+      "entryUrl": "https://raw.githubusercontent.com/NewCity-Soft/NewCityPulsePlugins/main/plugins/random-events/index.tsx"
+    },
+    {
+      "id": "com.citypulse.lang.ja",
+      "name": { "zh": "日语包 (Japanese)", "en": "Japanese Language Pack" },
+      "version": "1.0.0",
+      "description": { "zh": "为游戏添加日语支持。", "en": "Adds Japanese language support to the game." },
+      "author": "System",
+      "manifestUrl": "https://raw.githubusercontent.com/NewCity-Soft/NewCityPulsePlugins/main/plugins/lang-pack-ja/manifest.json",
+      "entryUrl": "https://raw.githubusercontent.com/NewCity-Soft/NewCityPulsePlugins/main/plugins/lang-pack-ja/index.tsx"
+    },
+    {
+      "id": "com.citypulse.ui-pack.frosted",
+      "name": { "zh": "毛玻璃 UI (Frosted Glass)", "en": "Frosted Glass UI" },
+      "version": "1.0.0",
+      "description": { "zh": "优雅的毛玻璃拟态主题。", "en": "Experience elegance with a frosted glass (glassmorphism) theme." },
+      "author": "System",
+      "manifestUrl": "https://raw.githubusercontent.com/NewCity-Soft/NewCityPulsePlugins/main/plugins/ui-pack-frosted/manifest.json",
+      "entryUrl": "https://raw.githubusercontent.com/NewCity-Soft/NewCityPulsePlugins/main/plugins/ui-pack-frosted/index.tsx"
+    },
+    {
+      "id": "com.citypulse.ui-pack.liquid",
+      "name": { "zh": "液态玻璃 UI (Liquid Glass)", "en": "Liquid Glass UI" },
+      "version": "1.0.0",
+      "description": { "zh": "流畅且有机的液态玻璃主题，具有高折射和柔和阴影。", "en": "A fluid and organic liquid glass theme." },
+      "author": "System",
+      "manifestUrl": "https://raw.githubusercontent.com/NewCity-Soft/NewCityPulsePlugins/main/plugins/ui-pack-liquid/manifest.json",
+      "entryUrl": "https://raw.githubusercontent.com/NewCity-Soft/NewCityPulsePlugins/main/plugins/ui-pack-liquid/index.tsx"
+    },
+    {
+      "id": "com.citypulse.ui-pack.neon",
+      "name": { "zh": "霓虹灯 UI (Neon)", "en": "Neon UI Pack" },
+      "version": "1.0.0",
+      "description": { "zh": "赛博朋克霓虹灯风格 UI 主题。", "en": "Vibrant cyberpunk neon aesthetic theme." },
+      "author": "System",
+      "manifestUrl": "https://raw.githubusercontent.com/NewCity-Soft/NewCityPulsePlugins/main/plugins/ui-pack-neon/manifest.json",
+      "entryUrl": "https://raw.githubusercontent.com/NewCity-Soft/NewCityPulsePlugins/main/plugins/ui-pack-neon/index.tsx"
+    }
+  ]
+}

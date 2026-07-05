@@ -1,0 +1,8 @@
+{
+  "id": "com.citypulse.ui-pack.liquid",
+  "name": "Liquid Glass UI",
+  "version": "1.0.0",
+  "description": "A fluid and organic liquid glass theme with high refraction and soft shadows.",
+  "author": "System",
+  "entry": "index.tsx"
+}

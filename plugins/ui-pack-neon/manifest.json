@@ -1,0 +1,8 @@
+{
+  "id": "com.citypulse.ui-pack.neon",
+  "name": "Neon UI Pack",
+  "version": "1.0.0",
+  "description": "Overrides the default UI theme with a vibrant cyberpunk neon aesthetic.",
+  "author": "System",
+  "entry": "index.tsx"
+}
